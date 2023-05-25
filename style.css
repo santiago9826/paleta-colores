@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.colores {
+    display: flex;
+    margin: 20px;
+    border: solid 10px;
+}
+
+.color1 {
+    background-color: #ff003d;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.color2 {
+    background-color: #2b6521;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    margin: 20px;
+    flex-direction: column;
+}
+
+.color3 {
+    background-color: #fdff34;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color4 {
+    background-color: #4323d5;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color5 {
+    background-color: #ffa500;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color6 {
+    background-color: #693167;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color7 {
+    background-color: #963b35;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color8 {
+    color: white;
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color9 {
+    background-color: #ffbdca;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.color10 {
+    background-color: #e3e4e4;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
